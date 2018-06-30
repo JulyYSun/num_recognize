@@ -1,3 +1,9 @@
 # num_recognize
 
-测试
+
+第一次的程序训练图片放在num_train文件夹下，训练的txt数据集对应在numtxt_train文件夹下
+
+改进后的程序训练的图片存放在trainimg文件夹中，训练数据为traindata文件
+
+Addnumber.py用于更新插入训练图片，目前未实现
+Imagetotxt_new.py 将所有训练图片转化为矩阵存在一个traindata中
